@@ -1,2 +1,2 @@
 # RFIDparking-website
-This website is made 
+This website is made with HTML,CSS and JS.
